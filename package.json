@@ -10,7 +10,7 @@
     "test": "node server.js",
     "start": "node server.js"
   },
-  "author": "Angela Lee",
+  "author": "Angela Lee, bitches",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
